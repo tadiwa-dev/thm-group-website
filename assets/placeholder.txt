@@ -1,0 +1,12 @@
+This is the assets directory for THM Group website.
+
+Current assets:
+- thm-group-logo.png (THM Group logo used in navigation - dark backgrounds)
+- thm-group-logo-black.png (THM Group logo used in navigation - light backgrounds)
+
+Additional assets that can be added:
+- hero-bg.jpg (Hero section background images)
+- portfolio-images/ (Portfolio showcase images)
+- icons/ (Custom icons)
+
+The website uses CSS gradients and SVG icons for most visual elements.
